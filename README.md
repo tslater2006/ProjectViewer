@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Timothy Slater - [@tslater2006](https://twitter.com/tslater2006)
+Timothy Slater - [@tjslater2006](https://twitter.com/tjslater2006)
 
 Project Link: [https://github.com/tslater2006/ProjectViewer](https://github.com/tslater2006/ProjectViewer)
 
