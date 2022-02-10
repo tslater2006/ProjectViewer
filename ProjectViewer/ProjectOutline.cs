@@ -444,7 +444,7 @@ namespace ProjectViewer
                                 typeString = "XML Documents";
                                 break;
                         }
-                        typeString += " (" + objectType + ")";
+                        //typeString += " (" + objectType + ")";
                         outline.seenTypes.Add(objectType);
                         if (isTypePPC)
                         {
